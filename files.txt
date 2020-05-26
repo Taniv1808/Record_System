@@ -1,0 +1,10 @@
+Name :Taniv
+Roll_NO :102
+Course :Python
+Address :Jyoti Nagar
+City :KKR
+Contact:9416183301
+Date:08/08/1999
+Degree:08/08/1999
+Id_proof:License
+Payment:G-Pay
